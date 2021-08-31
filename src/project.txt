@@ -1,0 +1,5 @@
+ npm install --save axios prop-types react-router @material-ui/core react 
+
+ npm install --save axios react-chartjs-2 react-countup classnames
+
+ async = asynchronous function 
